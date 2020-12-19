@@ -1,6 +1,6 @@
 # 🧑 [Bastian](https://basti564.github.io) [@basti564](https://twitter.com/Basti564)
 
-![Basti564's github stats](https://github-readme-stats.vercel.app/api?username=basti564&hide=contribs&show_icons=true)
+![Basti564's github stats](https://github-readme-stats.vercel.app/api?username=basti564&theme=tokyonight&hide=contribs&show_icons=true)
 
 ## 💻 My Projects
 
@@ -19,7 +19,7 @@
 
 # 📙 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basti564&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basti564&theme=tokyonight&layout=compact&langs_count=8?theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
