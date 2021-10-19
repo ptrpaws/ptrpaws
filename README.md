@@ -1,7 +1,7 @@
 # :ice_cube: [Bastian](https://basti564.github.io) [@basti564](https://twitter.com/Basti564)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R1657BK)
 
-![Basti564's github stats](https://github-readme-stats.vercel.app/api?username=basti564&theme=tokyonight&hide=contribs&show_icons=true)
+![Basti564's github stats](https://github-readme-stats.vercel.app/api?username=basti564&theme=tokyonight&show_icons=true)
 
 ## :computer: My Projects
 
