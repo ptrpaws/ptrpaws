@@ -20,4 +20,4 @@
 
 _{{ last_updated }}_
 
-![Profile Views](https://komarev.com/ghpvc/?username={{ username }}&color=grey)
+![Profile Views](https://komarev.com/ghpvc/?username={{ username }}&color=grey&base=35291)
