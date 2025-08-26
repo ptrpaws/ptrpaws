@@ -6,23 +6,23 @@
 
 **my stats**
 - **2.3k** stars across repos
-- **271** commits this year
-- **23** total pull requests
+- **275** commits this year
+- **24** total pull requests
 - **129** total issues
-- **2** repos contributed to
+- **3** repos contributed to
 
 **top languages**
 ```
-Kotlin          ▓▓░░░░░░░░ 21.70%
-Java            ▓░░░░░░░░░ 14.01%
+Kotlin          ▓▓░░░░░░░░ 21.69%
+Java            ▓░░░░░░░░░ 14.00%
 JavaScript      ▓░░░░░░░░░ 11.77%
 Python          ▓░░░░░░░░░ 10.42%
-C++             ▓░░░░░░░░░ 8.55%
+C++             ▓░░░░░░░░░ 8.58%
 VB.NET          ▓░░░░░░░░░ 6.33%
 HTML            ░░░░░░░░░░ 4.36%
 Swift           ░░░░░░░░░░ 3.93%
 ```
 
-_Last updated 2025-08-25 02:00:15 UTC_
+_Last updated 2025-08-26 01:56:17 UTC_
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ptrpaws&color=grey&base=35291)
