@@ -6,10 +6,10 @@
 
 **my stats**
 - **2.3k** stars across repos
-- **423** commits this year
-- **24** total pull requests
+- **424** commits this year
+- **25** total pull requests
 - **168** total issues
-- **3** repos contributed to
+- **4** repos contributed to
 
 **top languages**
 ```
@@ -23,6 +23,6 @@ VB.NET          ▓░░░░░░░░░ 5.46%
 HTML            ░░░░░░░░░░ 4.24%
 ```
 
-_Last updated 2025-10-07 01:48:16 UTC_
+_Last updated 2025-10-08 01:48:21 UTC_
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ptrpaws&color=grey&base=35291)
